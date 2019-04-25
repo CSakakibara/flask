@@ -1,5 +1,4 @@
 from flask import Flask, url_for, request, json, jsonify, abort
-from user import User
 from json import dumps
 from bottle import response
 from dbUtils import DbUtils
