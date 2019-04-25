@@ -2,7 +2,7 @@ from sqlalchemy import create_engine
 
 
 class DbUtils:
-    db_string = "postgresql-psycopg2://postgres:final1215@localhost/asa"
+    db_string = "postgresql-psycopg2://postgres:senhabanco@localhost/asa"
     db_query = " "
 
     def create_tb_categorias(self):
