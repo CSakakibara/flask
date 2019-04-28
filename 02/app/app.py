@@ -1,3 +1,6 @@
+#Lucas Guerra Borges
+#Christopher Jun Maruyama Sakakibara
+
 from flask import Flask, url_for, request, json, jsonify, abort
 from json import dumps
 from bottle import response
